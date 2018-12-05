@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 cd "$(dirname "$0")"
-cd app
+# cd app
 
 source .env.local
 
