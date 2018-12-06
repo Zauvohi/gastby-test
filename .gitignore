@@ -8,6 +8,11 @@ yarn-error.log*
 # local env file
 .env.local
 
+# amplify files
+amplify
+amplify/*
+.amplifyrc
+
 # Runtime data
 pids
 *.pid
